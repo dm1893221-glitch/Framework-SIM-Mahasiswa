@@ -29,27 +29,40 @@ Tugas project uas
 21. Membuat controller
     <img width="1702" height="612" alt="image" src="https://github.com/user-attachments/assets/7a21a55c-4467-4e6d-bb05-a2ab038641a8" />
 23. Mahasiswa controller
-    
+    <img width="1512" height="843" alt="image" src="https://github.com/user-attachments/assets/2779fc16-de89-4f4b-a1d2-32eedcdfb3ba" />
 25. Controller prodi
-26. Dasboard Controller
-27. Route
-28. Layout utama
-29. Dasboard
-30. Halaman data mahasiswa
-31. Form tambah mahasiswa
-32. Halaman detail
-33. Form edit
-34. Seeder Program Studi
-35. Coba Tambahkan Mahasiswa
-36. Pencarian
-37. Filter Program Studi
-38. CRUD Resource
-39. Relasi Eloquent
-40. Dashboard Statistik
-41. Data Mahasiswa per Prodi
-42. Jalankan Semua
-43. Alur Sistem Akhir
-44. Hasil Akhir yang Ditargetkan
+    <img width="1676" height="913" alt="image" src="https://github.com/user-attachments/assets/5d28004d-c05c-4cbf-a601-c535efe92f21" />
+27. Dasboard Controller
+    <img width="1516" height="883" alt="image" src="https://github.com/user-attachments/assets/4f6b5dca-b1c4-4881-bc65-373a22cc7e9b" />
+29. Route
+    <img width="1692" height="728" alt="image" src="https://github.com/user-attachments/assets/7df927ea-48b2-4dbb-a55d-cc73ba0eae9b" />
+    <img width="1912" height="906" alt="image" src="https://github.com/user-attachments/assets/ed4d398b-545d-4ef1-9ff1-ad1a0cf866f6" />
+30. Layout utama
+    <img width="1626" height="923" alt="image" src="https://github.com/user-attachments/assets/a5dc2b9b-a9ea-4b76-8c82-7e89091629e5" />
+33. Dasboard
+    <img width="1660" height="747" alt="image" src="https://github.com/user-attachments/assets/e8d07ee3-a4be-4c7b-a603-9b4ab27dde66" />
+35. Halaman data mahasiswa
+    <img width="1627" height="720" alt="image" src="https://github.com/user-attachments/assets/6d2daf38-9ba9-427a-81c8-42f3fffc9b95" />
+37. Form tambah mahasiswa
+    <img width="1577" height="603" alt="image" src="https://github.com/user-attachments/assets/f11b6f53-47c7-4811-8c9e-39bbc4cd3086" />
+39. Halaman detail
+    <img width="1647" height="867" alt="image" src="https://github.com/user-attachments/assets/dc7a91e6-3f06-47f4-acfa-29a4b0a971ac" />
+41. Form edit
+    
+43. Seeder Program Studi
+    <img width="1557" height="826" alt="image" src="https://github.com/user-attachments/assets/299c14e7-a84a-4dbc-a5aa-0c9e342c6a27" />
+    <img width="1405" height="673" alt="image" src="https://github.com/user-attachments/assets/b1e77246-05c7-48aa-b6fa-c9c0bc7e52fb" />
+45. Coba Tambahkan Mahasiswa
+    
+47. Pencarian
+48. Filter Program Studi
+49. CRUD Resource
+50. Relasi Eloquent
+51. Dashboard Statistik
+52. Data Mahasiswa per Prodi
+53. Jalankan Semua
+54. Alur Sistem Akhir
+55. Hasil Akhir yang Ditargetkan
     CRUD PROGRAM STUDI
     Halaman Daftar Prodi
     Perbaiki Controller Prodi
