@@ -4,39 +4,52 @@ Tugas project uas
    <img width="900" height="748" alt="image" src="https://github.com/user-attachments/assets/4d7b00a1-68b0-4e58-ba82-a10d59f0917d" />
    <img width="895" height="173" alt="image" src="https://github.com/user-attachments/assets/f644cb8c-7616-4bf2-a631-5fd2184d7694" />
    <img width="1917" height="952" alt="image" src="https://github.com/user-attachments/assets/8068cafe-57f9-426a-b11a-dd5d7ef8513f" />
-2. Membuat database
+2. Membuat database mysql
    <img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/366f3a82-867c-48bb-841f-af0e4f16bf8d" />
-4. Membuat database mysql
-   
 6. Konfigurasi .env
-7. Struktur Database
-8. Membuat model dan migration
-9. Migration prodis
-10. Migration Mahasiswa
-11. Model prodi
-12. Model Mahasiswa
-13. Membuat controller
-14. Mahasiswa controller
-15. Controller prodi
-16. Dasboard Controller
-17. Route
-18. Layout utama
-19. Dasboard
-20. Halaman data mahasiswa
-21. Form tambah mahasiswa
-22. Halaman detail
-23. Form edit
-24. Seeder Program Studi
-25. Coba Tambahkan Mahasiswa
-26. Pencarian
-27. Filter Program Studi
-28. CRUD Resource
-29. Relasi Eloquent
-30. Dashboard Statistik
-31. Data Mahasiswa per Prodi
-32. Jalankan Semua
-33. Alur Sistem Akhir
-34. Hasil Akhir yang Ditargetkan
+   <img width="1557" height="777" alt="image" src="https://github.com/user-attachments/assets/ee164279-bb2e-4e0b-b572-c7a14c5c7171" />
+   <img width="893" height="702" alt="image" src="https://github.com/user-attachments/assets/b8b63a2f-ba72-4472-8ab7-ee6f5879f02f" />
+7. Install Laravel Breeze
+   <img width="1073" height="847" alt="image" src="https://github.com/user-attachments/assets/5ed31522-da18-4b7c-8a16-860aa6b7a6ac" />
+   <img width="1682" height="920" alt="image" src="https://github.com/user-attachments/assets/74df031b-d5f2-492a-bd14-715bcc978170" />
+   <img width="1405" height="823" alt="image" src="https://github.com/user-attachments/assets/482057cc-f418-4bb9-8b80-1532a092a547" />
+   <img width="1917" height="963" alt="image" src="https://github.com/user-attachments/assets/eed856db-0f24-4455-bb87-d868f2ecb2c4" />
+9. Struktur Database
+10. Membuat model dan migration
+   <img width="1317" height="730" alt="image" src="https://github.com/user-attachments/assets/47532b9f-990e-4828-95e8-6f0aae23d0c3" />
+   <img width="1292" height="283" alt="image" src="https://github.com/user-attachments/assets/52b70616-b4fa-4e06-80ae-f2003c12a584" />
+13. Migration prodis
+    <img width="1672" height="631" alt="image" src="https://github.com/user-attachments/assets/29a690dc-d16f-4cd8-880e-0418eb0a3967" />
+15. Migration Mahasiswa
+    <img width="1596" height="631" alt="image" src="https://github.com/user-attachments/assets/91fffee0-0c4e-44a1-aae6-0866ad73304e" />
+17. Model prodi
+    <img width="1525" height="558" alt="image" src="https://github.com/user-attachments/assets/53b47d37-4dc8-4ae1-a7e2-2ef65e77fff8" />
+19. Model Mahasiswa
+    <img width="1486" height="712" alt="image" src="https://github.com/user-attachments/assets/4ae91722-a30c-4ab7-b10c-5ccbfad2d617" />
+21. Membuat controller
+    <img width="1702" height="612" alt="image" src="https://github.com/user-attachments/assets/7a21a55c-4467-4e6d-bb05-a2ab038641a8" />
+23. Mahasiswa controller
+    
+25. Controller prodi
+26. Dasboard Controller
+27. Route
+28. Layout utama
+29. Dasboard
+30. Halaman data mahasiswa
+31. Form tambah mahasiswa
+32. Halaman detail
+33. Form edit
+34. Seeder Program Studi
+35. Coba Tambahkan Mahasiswa
+36. Pencarian
+37. Filter Program Studi
+38. CRUD Resource
+39. Relasi Eloquent
+40. Dashboard Statistik
+41. Data Mahasiswa per Prodi
+42. Jalankan Semua
+43. Alur Sistem Akhir
+44. Hasil Akhir yang Ditargetkan
     CRUD PROGRAM STUDI
     Halaman Daftar Prodi
     Perbaiki Controller Prodi
