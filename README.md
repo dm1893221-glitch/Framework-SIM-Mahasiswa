@@ -1,41 +1,42 @@
 # Project UAS Framework-SIM-Mahasiswa
 Tugas project uas
 1. Project laravel
+   <img width="900" height="748" alt="image" src="https://github.com/user-attachments/assets/4d7b00a1-68b0-4e58-ba82-a10d59f0917d" />
+   <img width="895" height="173" alt="image" src="https://github.com/user-attachments/assets/f644cb8c-7616-4bf2-a631-5fd2184d7694" />
+   <img width="1917" height="952" alt="image" src="https://github.com/user-attachments/assets/8068cafe-57f9-426a-b11a-dd5d7ef8513f" />
+2. Membuat database
+   <img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/366f3a82-867c-48bb-841f-af0e4f16bf8d" />
+4. Membuat database mysql
    
-2. Membuat database 
-
-
-3. Membuat database mysql
-
-4. Konfigurasi .env
-5. Struktur Database
-6. Membuat model dan migration
-7. Migration prodis
-8. Migration Mahasiswa
-9. Model prodi
-10. Model Mahasiswa
-11. Membuat controller
-12. Mahasiswa controller
-13. Controller prodi
-14. Dasboard Controller
-15. Route
-16. Layout utama
-17. Dasboard
-18. Halaman data mahasiswa
-19. Form tambah mahasiswa
-20. Halaman detail
-21. Form edit
-22. Seeder Program Studi
-23. Coba Tambahkan Mahasiswa
-24. Pencarian
-25. Filter Program Studi
-26. CRUD Resource
-27. Relasi Eloquent
-28. Dashboard Statistik
-29. Data Mahasiswa per Prodi
-30. Jalankan Semua
-31. Alur Sistem Akhir
-32. Hasil Akhir yang Ditargetkan
+6. Konfigurasi .env
+7. Struktur Database
+8. Membuat model dan migration
+9. Migration prodis
+10. Migration Mahasiswa
+11. Model prodi
+12. Model Mahasiswa
+13. Membuat controller
+14. Mahasiswa controller
+15. Controller prodi
+16. Dasboard Controller
+17. Route
+18. Layout utama
+19. Dasboard
+20. Halaman data mahasiswa
+21. Form tambah mahasiswa
+22. Halaman detail
+23. Form edit
+24. Seeder Program Studi
+25. Coba Tambahkan Mahasiswa
+26. Pencarian
+27. Filter Program Studi
+28. CRUD Resource
+29. Relasi Eloquent
+30. Dashboard Statistik
+31. Data Mahasiswa per Prodi
+32. Jalankan Semua
+33. Alur Sistem Akhir
+34. Hasil Akhir yang Ditargetkan
     CRUD PROGRAM STUDI
     Halaman Daftar Prodi
     Perbaiki Controller Prodi
